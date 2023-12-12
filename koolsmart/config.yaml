@@ -1,7 +1,7 @@
 name: "KoolSmart"
 description: "My KoolSmart"
-version: "0.1.0"
-slug: "koolsmart_100"
+version: "0.1.1"
+slug: "koolsmart_101"
 panel_icon: mdi:lightbulb-on-80
 init: false
 ingress: true
