@@ -22,6 +22,8 @@ Making the future of life what you see is what you get
 
 ## 🍭 Usage
 
+> Video tutorials are struggling to be made!
+
 - You can use your [酷家乐账号](https://www.kujiale.com/) to log in and load the designed projects.
 
   <p align="center" style="box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);border-radius: 10px;overflow: hidden;">
@@ -88,6 +90,10 @@ If you have any questions, you can submit them to the Issues module, and we will
 
 <p>
 <img src="https://img.shields.io/badge/Author-LuffyMonsterB-orange" alt="Author" />
+<img src="https://img.shields.io/badge/Author-Leonis han-orange" alt="Author" />
+<img src="https://img.shields.io/badge/Author-xiaoheitwo-orange" alt="Author" />
+<img src="https://img.shields.io/badge/Author-violalulu-orange" alt="Author" />
+
 </p>
 
 ## 📄 License
