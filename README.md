@@ -4,11 +4,11 @@
 Making the future of life what you see is what you get
 </p>
   <p align="center">
-    <img src="https://img.shields.io/github/languages/code-size/LuffyMonsterB/behavior-react" alt="code-size" />
-    <img src="https://img.shields.io/github/languages/top/LuffyMonsterB/behavior-react?color=yellow" alt="languages-top" />
+    <img src="https://img.shields.io/github/languages/code-size/manycore-koolab/KoolSmart" alt="code-size" />
+    <img src="https://img.shields.io/github/languages/top/manycore-koolab/KoolSmart?color=yellow" alt="languages-top" />
 <!--     <img src="https://img.shields.io/github/package-json/v/LuffyMonsterB/behavior-react" alt="version" /> -->	
-    <img src="https://img.shields.io/github/last-commit/LuffyMonsterB/behavior-react" alt="last-commit" /> 
-    <img src="https://img.shields.io/badge/Author-LuffyMonsterB-orange" alt="Author" />
+    <img src="https://img.shields.io/github/last-commit/manycore-koolab/KoolSmart" alt="last-commit" /> 
+    <!-- <img src="https://img.shields.io/badge/Author-LuffyMonsterB-orange" alt="Author" /> -->
 </p>
 
 ## 🌟 Introduction
@@ -60,7 +60,7 @@ Making the future of life what you see is what you get
 
 - **Home Assistant Installation:** https://www.home-assistant.io/installation/
 
-- **Copy GitHub Link:** https://github.com/LuffyMonsterB/koolsmart-addon
+- **Copy GitHub Link:** https://github.com/manycore-koolab/KoolSmart
 
 - **Install in Home Assistant Add-ons Store:**
 
