@@ -8,7 +8,6 @@ Making the future of life what you see is what you get
     <img src="https://img.shields.io/github/languages/top/manycore-koolab/KoolSmart?color=yellow" alt="languages-top" />
 <!--     <img src="https://img.shields.io/github/package-json/v/LuffyMonsterB/behavior-react" alt="version" /> -->	
     <img src="https://img.shields.io/github/last-commit/manycore-koolab/KoolSmart" alt="last-commit" /> 
-    <!-- <img src="https://img.shields.io/badge/Author-LuffyMonsterB-orange" alt="Author" /> -->
 </p>
 
 ## 🌟 Introduction
@@ -86,6 +85,10 @@ Making the future of life what you see is what you get
 If you have any questions, you can submit them to the Issues module, and we will fix them.
 
 ## 🌝 Authors & Contributors
+
+<p>
+<img src="https://img.shields.io/badge/Author-LuffyMonsterB-orange" alt="Author" />
+</p>
 
 ## 📄 License
 
