@@ -58,11 +58,11 @@ Making the future of life what you see is what you get
 
 ## 🚀 Installation
 
-- **Home Assistant Installation: **https://www.home-assistant.io/installation/
+- **Home Assistant Installation:** https://www.home-assistant.io/installation/
 
-- **Copy GitHub Link: **https://github.com/LuffyMonsterB/koolsmart-addon
+- **Copy GitHub Link:** https://github.com/LuffyMonsterB/koolsmart-addon
 
-- **Install in Home Assistant Add-ons Store: **
+- **Install in Home Assistant Add-ons Store:**
 
   1. In Home Assistant, click on "Settings" -> "Add-ons" -> "Add-ons Store".
   2. Click on the upper right corner `...` , and then click on `repository`.
@@ -74,7 +74,7 @@ Making the future of life what you see is what you get
   <img style="border:0" src="document/assets/ks_url.png">
   </p>
 
-- **Enjoy Your KoolSmart: **Start the Koolsmart add-on and open the web user interface (UI) by clicking on "Open Web
+- **Enjoy Your KoolSmart:** Start the Koolsmart add-on and open the web user interface (UI) by clicking on "Open Web
   UI".
 
   <p align="center" style="box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);border-radius: 10px;overflow: hidden;">
