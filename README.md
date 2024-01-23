@@ -24,7 +24,7 @@ realize imagination
 
 - **Video tutorials:**
 
-  - b 站：https://www.bilibili.com/video/BV1vu4y1H7ms/
+  - bilibili：https://www.bilibili.com/video/BV1vu4y1H7ms/
 
   - youtube：https://www.youtube.com/watch?v=qETuxxx1-vM
 
