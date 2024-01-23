@@ -22,7 +22,13 @@ realize imagination
 
 ## 🍭 Usage
 
-- **Video tutorials:** https://www.bilibili.com/video/BV1vu4y1H7ms/
+- **Video tutorials:**
+
+  - b站：https://www.bilibili.com/video/BV1vu4y1H7ms/
+
+  - youtube：https://www.youtube.com/watch?v=qETuxxx1-vM
+
+  - coohom：https://blog.coohom.com/enchanting-home-automation-unveiling-the-magic-of-koolsmart-for-intelligent-lighting-and-control/
 
 - You can use your [Kujiale Account](https://www.kujiale.com/) to log in and load the designed projects.
 
@@ -85,6 +91,11 @@ realize imagination
 ## 🐛 Issues
 
 If you have any questions, you can submit them to the Issues module, and we will fix them.
+
+## 💻 Community
+
+English：https://community.home-assistant.io/t/koolsmart1-0-connect-exquisite-renderings-visually-configure-devices-and-easily-publish-dashboards/670374
+Chinese：https://bbs.hassbian.com/thread-23638-1-1.html
 
 ## 🌝 Authors & Contributors
 
