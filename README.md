@@ -24,7 +24,7 @@ realize imagination
 
 - **Video tutorials:**
 
-  - b站：https://www.bilibili.com/video/BV1vu4y1H7ms/
+  - b 站：https://www.bilibili.com/video/BV1vu4y1H7ms/
 
   - youtube：https://www.youtube.com/watch?v=qETuxxx1-vM
 
@@ -95,6 +95,7 @@ If you have any questions, you can submit them to the Issues module, and we will
 ## 💻 Community
 
 English：https://community.home-assistant.io/t/koolsmart1-0-connect-exquisite-renderings-visually-configure-devices-and-easily-publish-dashboards/670374
+
 Chinese：https://bbs.hassbian.com/thread-23638-1-1.html
 
 ## 🌝 Authors & Contributors
